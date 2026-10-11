@@ -1,0 +1,13 @@
+name: DeviceCheck
+version: '${version}'
+api-version: '1.21.11'
+description: Shows the device and client information of players.
+author: kubotan
+main: space.gorogoro.devicecheck.DeviceCheck
+depend: [floodgate]
+softdepend: [ViaVersion]
+
+commands:
+  device:
+    description: プレイヤーの端末やクライアントの情報を表示します(OP のみ)
+    usage: /device [プレイヤー名]
