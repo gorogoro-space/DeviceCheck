@@ -32,6 +32,17 @@ Please place the .jar file in the Paper plugins folder.
 - 統合版: 種類(スマホ・タブレット / PC / ゲーム機)、OS、操作方法、UI、バージョン、言語、Ping、Java 版とのリンクの有無
 - Java 版: クライアント(バニラ・Fabric・Forge など)、バージョン(ViaVersion が必要)、言語、Ping、描画距離
 
+# 情報の利用目的
+
+取得した情報は、次の目的で利用します。
+
+- サービスの運営・改善
+- お問い合わせへの回答(本人確認を含む)
+- 荒らし・不正アクセス・詐欺・サイバー攻撃などの迷惑行為や不正行為の防止と対応
+- 利用規約に違反したユーザーや、不正な目的で利用しようとするユーザーの特定と、利用のお断り
+- サーバーの不具合の調査と性能の改善
+- 上記に付随する目的
+
 # Disclaimer
 Do not assume any responsibility by use. Please use it at your own risk.
 
