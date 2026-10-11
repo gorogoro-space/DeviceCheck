@@ -34,14 +34,7 @@ Please place the .jar file in the Paper plugins folder.
 
 # 情報の利用目的
 
-取得した情報は、次の目的で利用します。
-
-- サービスの運営・改善
-- お問い合わせへの回答(本人確認を含む)
-- 荒らし・不正アクセス・詐欺・サイバー攻撃などの迷惑行為や不正行為の防止と対応
-- 利用規約に違反したユーザーや、不正な目的で利用しようとするユーザーの特定と、利用のお断り
-- サーバーの不具合の調査と性能の改善
-- 上記に付随する目的
+ごろごろ鯖では、取得した情報を[プライバシーポリシー](https://www.gorogoro.space/privacystatement.html)に定める目的で利用します。
 
 # Disclaimer
 Do not assume any responsibility by use. Please use it at your own risk.
